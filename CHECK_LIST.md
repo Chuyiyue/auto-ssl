@@ -1,4 +1,4 @@
-## Certificate Status (Updated at 2024-12-07 23:40:58)
+## Certificate Status (Updated at 2024-12-08 23:41:07)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
 | 1791147.xyz | Feb  8 05:47:26 2025 GMT |  O = Let's Encrypt | Feb  8 05:47:31 2025 GMT |  O = Let's Encrypt |
